@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "eslint": "^8.25.0",
+    "pinia": "^2.0.23",
     "vue": "^3.2.13"
   },
   "devDependencies": {
